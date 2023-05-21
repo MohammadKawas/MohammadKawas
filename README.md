@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-👻 Hi there , I‘m Mohammad Kawas<br>🔭 I’m currently working on Fullstack-development.<br>🌱 I’m currently learning Front- and Backend development , also Python and Javascript prgramming.<br>
+👻 Hi there , I‘m Mohammad Kawas<br>🔭 I’m currently working on Fullstack-development.<br>🌱 I’m currently learning Front- and Backend development , also Python and Javascript programming.<br>
 
 
 ## 🌐 Socials:
